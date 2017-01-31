@@ -15,6 +15,9 @@ using namespace std;
 
 int main( int argc, const char** argv )
 {
+    //to train -- uncomment line 19 and comment line 21
+    //to run -- uncomment line 21 and comment line 19
+    
     //LBPHFaceTraining();
     
     int value = facialRecognition();
