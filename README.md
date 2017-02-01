@@ -1,5 +1,5 @@
 # Logo-Recognition
-<h5>System that recognizes coporate logos (i.e. McDonalds and Apple, for now)</h5>
+<h5>System that recognizes corporate logos (i.e. McDonalds and Apple, for now)</h5>
 
 <img src = "https://github.com/csimmons155/Logo-Recognition-/blob/master/images/Logo_recog_photo.png" alt = "Logo Recognition" width="400" height = "250">
 <p><font size="0.1">Recognizes my face (Person: Chris) and recognizes the two logos and displays the appropriate advertisement messages</font></p> 
